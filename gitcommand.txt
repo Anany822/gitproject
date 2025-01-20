@@ -11,3 +11,8 @@ clear
 git add gitcommand.txt
 git commit -m "adding txt files"
 git push origin master
+
+
+
+
+this is a secret text
