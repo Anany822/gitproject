@@ -3,3 +3,11 @@ git status
 git commit -m first.py
 git status
 git history
+git remote add origin https://github.com/Anany822/gitproject.git
+git remote -v
+git push origin master
+git remote -v
+clear
+git add gitcommand.txt
+git commit -m "adding txt files"
+git push origin master
