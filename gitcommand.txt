@@ -1,0 +1,5 @@
+git add first.py
+git status
+git commit -m first.py
+git status
+git history
